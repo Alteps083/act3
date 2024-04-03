@@ -1,0 +1,25 @@
+.bar{
+    background-color: rgb(255, 145, 0);
+}
+.opbar{
+    background-color: whitesmoke;
+    border-radius: 20%;
+
+}
+.opbar:hover{
+    cursor: pointer;
+    background-color: rgb(56, 55, 55);
+    color: #ff5500;
+    transition: .2s  ease-in;
+
+}
+.titulo{
+
+}
+.carrusel{
+    align-items: center;
+}
+.carruselimg{
+    width: 98vw;
+    height: 40rem;
+}
