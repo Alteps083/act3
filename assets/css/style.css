@@ -14,7 +14,7 @@
 
 }
 .titulo{
-
+    background-color: rgb(253, 183, 78);
 }
 .carrusel{
     align-items: center;
@@ -22,4 +22,8 @@
 .carruselimg{
     width: 98vw;
     height: 40rem;
+}
+.imad{
+    width: auto;
+    height: auto;
 }
